@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @flowerofliz
 - 👀 I’m interested in learning about Java
 - 🌱 I’m currently learning analysis and sistems development
-- 💞️ I’m looking to collaborate on internship
+- 💞️ I’m looking to collaborate with people about software quality in internship 
 - 📫 How to reach me liz.geovana.meira@gmail.com or lilizinha2602@gmail.com
 
 <!---
